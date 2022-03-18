@@ -3,6 +3,10 @@
     "name": "MuvaApp",
     "slug": "MuvaApp",
     "version": "1.0.0",
+    "splash": {
+  "image": "./assets/splashscreen.png",
+  "resizeMode": "cover"
+},
     "assetBundlePatterns": [
       "**/*"
     ]
